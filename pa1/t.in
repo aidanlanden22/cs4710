@@ -1,0 +1,12 @@
+Teach S1 = "Sam likes Ice Cream"
+Teach S2 = "Sue likes Ice Cream"
+Teach V = "Today is Sunday"
+Teach Z = "yes"
+Teach S1 = true
+Teach S1 -> S2
+Teach S1 & S2 -> V
+List
+Learn
+List
+
+
