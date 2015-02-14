@@ -2,11 +2,10 @@ Teach S1 = "Sam likes Ice Cream"
 Teach S2 = "Sue likes Ice Cream"
 Teach V = "Today is Sunday"
 Teach Z = "yes"
-Teach S1 = true
-Teach S1 -> S2
-Teach S1 & S2 -> V
+Teach S1 = false
+Teach !S1 -> S2
+Teach S2|S1&Z -> V
+Query V
 List
 Learn
 List
-
-
