@@ -1,0 +1,20 @@
+Teach X = "Bruce Wayne is Batman"
+Teach Y = "Batman is rich"
+Teach Z = "Batman is crazy"
+Teach A = "Bruce Wayne is rich"
+Teach B = "Bruce Wayne still owns Wayne Enterprises"
+Teach C = "Bane has crashed Wayne Enterprises' stock"
+Teach D = "Bruce Wayne is not a sane and well-adjusted individual"
+Teach E = "Bruce Wayne spends his time in a cave"
+Teach F = "Bruce Wayne enjoys spelunking"
+Teach G = "People who enjoy spelunking are not sane"
+Teach B&!C -> A
+Teach F&G -> D
+Teach E -> F
+Teach Y&A&D&Z -> X
+Teach E = true
+Teach G = true
+Teach B = true
+Teach Y = true
+Teach Z = true
+Why X

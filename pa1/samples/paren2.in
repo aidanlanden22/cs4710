@@ -1,0 +1,9 @@
+Teach A = "a"
+Teach B = "b"
+Teach C = "c"
+Teach D = "d"
+Teach D = true
+Teach ((A&!D)|(D&!A))&B -> C
+Teach D -> B
+Learn
+Query C

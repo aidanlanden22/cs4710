@@ -1,0 +1,9 @@
+Teach A = "A"
+Teach B = "B"
+Teach C = "C"
+Teach D = "D"
+Teach E = "E"
+Teach (A|E)&!(C&D) -> B
+Teach E = true
+Teach C = true
+Why B

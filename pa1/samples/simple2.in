@@ -1,0 +1,6 @@
+Teach X = "X"
+Teach Y = "Y"
+Teach Y = false
+Teach !Y -> X
+Learn
+Query X

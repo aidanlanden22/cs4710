@@ -1,0 +1,6 @@
+Teach A = "My backward chaining is working"
+Teach B = "I can solve this simple instance"
+Teach A -> B
+Teach A = true
+Learn
+Why B
