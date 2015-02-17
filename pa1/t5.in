@@ -1,0 +1,12 @@
+Teach A = "A"
+Teach B = "B"
+Teach C = "C"
+Teach D = "D"
+Teach A -> B
+Teach A -> C
+Teach B -> D
+Teach C -> D
+
+Teach A = true
+
+Why D&C&!B&A

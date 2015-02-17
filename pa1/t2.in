@@ -1,0 +1,13 @@
+Teach C = "C"
+Teach A = "A"
+Teach B = "B"
+Teach D = "D"
+Teach A = true
+Teach C = true
+Teach A -> B
+Teach B -> C
+Teach C -> D
+
+List
+Learn
+List

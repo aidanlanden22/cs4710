@@ -1,0 +1,16 @@
+Teach A = "A"
+Teach B = "B"
+Teach C = "C"
+Teach A -> B
+Teach B -> C
+Teach A = true
+
+Query C
+Why C
+Learn
+
+Teach A = false
+Teach B = false
+
+Query C
+Why C
